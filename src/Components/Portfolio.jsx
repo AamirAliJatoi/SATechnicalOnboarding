@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/sebastian.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "3d rendered imgage";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My behance portofilio 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I've created a friendly portfolio for myself to showcase some of my recent work visit and follow for more!",
+    url: "https://www.behance.net/aamirjatoi",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Clients Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Working as a web designer at the Shaheed Benazirabad Chamber of Commerce and Industry here is my built website you can see and order yours too!",
+    url: "https://sbcci.org.pk/secretariat/",
   },
   {
-    title: "My Resume Site",
+    title: "My LinkedIn Profile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Lets connect on linkedin and make our connection more and more stronger and get each other updated about everything.",
+    url: "https://www.linkedin.com/in/aamirali110/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Visit My Youtube Channel Here",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I am working on youtube as a designer and 3d modeler please visit my youtube channel as well as subscribe like and follow for more videos.",
+    url: "https://www.youtube.com/@ajsacademy",
   },
 ];
 
